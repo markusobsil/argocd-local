@@ -7,4 +7,4 @@ metadata:
     app.kubernetes.io/name: argocd-cm
     app.kubernetes.io/part-of: argocd
 data:
-  url: https://argo-local.argoproj.io
+  url: https://argo-sandbox.argoproj.io
